@@ -1,0 +1,20 @@
+body{
+    background-color:grey;font-family: Arial; font: #FFFFFF;;
+    }
+table { 
+    border: 1px solid black; 
+    border-radius: 10px;
+    border-collapse: collapse;
+      width: 100%;
+    }
+th, td {
+text-align: center;
+padding: 8px;
+}
+
+tr:nth-child(even) {
+background-color: #D6EEEE;
+}
+footer{
+    position: relative;
+    top: 70%;}
